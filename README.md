@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Anno OCR" width="720" />
-</p>
+![Frame 18](https://github.com/user-attachments/assets/2cbc95b8-a464-4b94-a735-dba801d2f435)
 
 <h1 align="center">Anno OCR</h1>
 
