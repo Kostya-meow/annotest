@@ -1,4 +1,5 @@
-![Frame 18](https://github.com/user-attachments/assets/2cbc95b8-a464-4b94-a735-dba801d2f435)
+![Frame 19](https://github.com/user-attachments/assets/627ba3b8-8780-46c5-9549-a45edb6c1b36)
+
 
 <p align="center">
 Десктопное приложение для распознавания и аннотирования текстов в рукописных и архивных документах.
