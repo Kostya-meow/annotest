@@ -6,14 +6,6 @@
   Десктопное приложение для распознавания и аннотирования текстов в рукописных и архивных документах.
 </p>
 
-<p align="center">
-  <a href="https://github.com/USERNAME/anno-ocr/releases/latest">
-    <img src="https://img.shields.io/github/v/release/USERNAME/anno-ocr?style=for-the-badge&color=blue" alt="Latest Release" />
-  </a>
-  <img src="https://img.shields.io/badge/platform-Windows-informational?style=for-the-badge&logo=windows" alt="Platform" />
-  <img src="https://img.shields.io/badge/license-proprietary-lightgrey?style=for-the-badge" alt="License" />
-</p>
-
 ---
 
 ## Оглавление
