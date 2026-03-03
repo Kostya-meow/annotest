@@ -103,7 +103,7 @@
 | <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/260a7cfc-518d-4e27-a4de-abbdeb2f5778" /> | **Распознавание** | Распознать текст в найденных областях | `2` | Пакетное распознавание |
 | <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/8f86113c-9c64-4b7f-a8af-4ee5aaee7467" /> | **Коррекция** | Исправить распознанный текст языковой моделью | `3` | Пакетная коррекция |
 | <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/bab0559b-8608-4f72-a463-f261ae123790" /> | **Сортировка** | Упорядочить слова в порядке чтения | `4` | Пакетная сортировка |
-| <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e8d1fa67-85d9-4e95-a090-cdd95d56ed57" /> | **Пайплайн** | Всё сразу: детекция + распознавание + коррекция | `5` | Пакетный пайплайн |
+| <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/7a2bf19d-55d4-4541-925a-67613285e198" /> | **Пайплайн** | Всё сразу: детекция + распознавание + коррекция | `5` | Пакетный пайплайн |
 | | | | |
 | | **Ѣ** | Переключить на дореформенные веса корректора | — | — |
 | | **Отмена** | Отменить текущую OCR-операцию *(появляется во время обработки)* | — | — |
