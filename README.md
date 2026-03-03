@@ -73,10 +73,7 @@
 
 ### Общий вид окна
 
-<!-- Замените на реальный скриншот -->
-<p align="center">
-  <img src="assets/screenshots/main_window.png" alt="Главное окно Anno OCR" width="900" />
-</p>
+<img width="1737" height="1096" alt="image" src="https://github.com/user-attachments/assets/0df6f7cf-fc4c-4006-8437-1a7b1b2257ec" />
 
 Окно разделено на три зоны:
 
