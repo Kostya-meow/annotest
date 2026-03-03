@@ -176,15 +176,9 @@
 
 > Самый простой путь: открыть папку с изображениями и запустить полный пайплайн.
 
-<!-- Замените на реальные скриншоты каждого шага -->
-
 **Шаг 1. Откройте папку с изображениями**
 
 `Файл → Открыть папку` или `Ctrl+O`. Выберите папку с изображениями документов (JPG, PNG, BMP).
-
-<p align="center">
-  <img src="assets/screenshots/step1_open.png" alt="Открытие папки" width="700" />
-</p>
 
 **Шаг 2. Запустите пайплайн**
 
@@ -193,35 +187,18 @@
 2. Распознает текст в каждой области
 3. Исправит ошибки языковой моделью
 
-<p align="center">
-  <img src="assets/screenshots/step2_pipeline.png" alt="Запуск пайплайна" width="700" />
-</p>
-
 **Шаг 3. Просмотрите результат**
 
 На холсте появятся цветные боксы с распознанным текстом. В панели структуры справа — иерархия блоков, строк и слов.
-
-<p align="center">
-  <img src="assets/screenshots/step3_result.png" alt="Результат распознавания" width="700" />
-</p>
 
 **Шаг 4. Скопируйте или экспортируйте текст**
 
 - Нажмите **Предпросмотр** в меню — откроется окно с полным текстом. Кнопка «Копировать всё» скопирует текст в буфер обмена.
 - Или экспортируйте через `Файл → Экспорт PDF` / `Экспорт JSON`.
 
-<p align="center">
-  <img src="assets/screenshots/step4_preview.png" alt="Предпросмотр текста" width="500" />
-</p>
-
 ---
 
 ### Работа с PDF
-
-<!-- Замените на реальный скриншот -->
-<p align="center">
-  <img src="assets/screenshots/pdf_import.png" alt="Импорт PDF" width="500" />
-</p>
 
 1. `Файл → Импорт PDF` — выберите PDF-файл
 2. Каждая страница будет сохранена как PNG (200 DPI) в новую папку
@@ -233,11 +210,6 @@
 ---
 
 ### Ручная разметка и корректировка
-
-<!-- Замените на реальный скриншот -->
-<p align="center">
-  <img src="assets/screenshots/manual_edit.png" alt="Ручное редактирование" width="700" />
-</p>
 
 Если автоматическое распознавание допустило ошибки, можно исправить вручную:
 
@@ -254,11 +226,6 @@
 ---
 
 ### Пакетная обработка
-
-<!-- Замените на реальный скриншот -->
-<p align="center">
-  <img src="assets/screenshots/batch.png" alt="Пакетная обработка" width="600" />
-</p>
 
 Для обработки множества страниц сразу:
 
@@ -396,13 +363,13 @@
 
 Anno OCR использует следующие открытые библиотеки. Спасибо их авторам!
 
-| Библиотека | Версия | Лицензия | Описание |
+| Библиотека | Лицензия | Описание |
 |------------|--------|----------|----------|
-| [PySide6](https://doc.qt.io/qtforpython-6/) | 6.10 | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
-| [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | 0.1.10 | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
-| [ReportLab](https://www.reportlab.com/) | 4.4 | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
-| [Shapely](https://shapely.readthedocs.io/) | — | [BSD-3-Clause](https://github.com/shapely/shapely/blob/main/LICENSE.txt) | Геометрические операции |
-| [SQLite](https://www.sqlite.org/) | — | [Public Domain](https://www.sqlite.org/copyright.html) | Встроенная база данных |
+| [PySide6](https://doc.qt.io/qtforpython-6/) | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
+| [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
+| [ReportLab](https://www.reportlab.com/) | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
+| [Shapely](https://shapely.readthedocs.io/) | [BSD-3-Clause](https://github.com/shapely/shapely/blob/main/LICENSE.txt) | Геометрические операции |
+| [SQLite](https://www.sqlite.org/) | [Public Domain](https://www.sqlite.org/copyright.html) | Встроенная база данных |
 
 Иконки: [Google Material Symbols](https://fonts.google.com/icons) — [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
