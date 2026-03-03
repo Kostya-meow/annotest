@@ -441,7 +441,7 @@ Anno OCR использует следующие открытые библиот
 |------------|--------|----------|----------|
 | [PySide6](https://doc.qt.io/qtforpython-6/) | 6.10 | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
 | [ONNX Runtime](https://onnxruntime.ai/) | 1.24 | [MIT](https://github.com/microsoft/onnxruntime/blob/main/LICENSE) | Движок инференса нейросетей |
-| [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | 0.1.10 | Не указана | Модели OCR для рукописных и архивных документов |
+| [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | 0.1.10 | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
 | [Pillow](https://python-pillow.github.io/) | 12.1 | [HPND](https://github.com/python-pillow/Pillow/blob/main/LICENSE) | Обработка изображений |
 | [requests](https://docs.python-requests.org/) | 2.32 | [Apache-2.0](https://github.com/psf/requests/blob/main/LICENSE) | HTTP-клиент для API-запросов |
 | [ReportLab](https://www.reportlab.com/) | 4.4 | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
