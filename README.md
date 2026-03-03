@@ -107,7 +107,7 @@
 
 | Иконка | Кнопка | Действие | Горячая клавиша | Правый клик |
 |--------|--------|----------|:---------------:|-------------|
-| <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ad296948-0fec-4a46-bf42-0773ced5c27e" /> | **Локально** | Переключиться на локальный ONNX-режим | — | — |
+| <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/56693c99-624d-47b9-9f0e-4bb14ff1b55e" /> | **Локально** | Переключиться на локальный ONNX-режим | — | — |
 | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/54628140-5cc5-4d89-8ff0-056cea80c7ca" /> |**API** | Переключиться на облачный API-режим | — | — |
 | | | | |
 | | **Детекция** | Найти области текста на странице | `1` | Пакетная детекция |
