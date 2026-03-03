@@ -154,9 +154,9 @@
 | Иконка | Кнопка | Действие |
 |--------|--------|----------|
 | <img width="126" height="58" alt="image" src="https://github.com/user-attachments/assets/6ef2f7a3-cce5-42fd-bae9-624b60c33fe0" /> | **+ Блок** | Создать новый пустой блок |
-| | **+ Строка** | Создать новую пустую строку |
-| | **Очистить ▼** | Меню очистки (см. ниже) |
-| | **Удалить** | Удалить выбранный элемент (блок / строку / слово) |
+| <img width="145" height="57" alt="image" src="https://github.com/user-attachments/assets/47395db4-11ea-4f41-87c6-ad654d9a1e8a" /> | **+ Строка** | Создать новую пустую строку |
+| <img width="233" height="58" alt="image" src="https://github.com/user-attachments/assets/b11f5b70-778b-4282-9993-f7808fd8bff5" /> | **Очистить элементы ▼** | Меню очистки (см. ниже) |
+| <img width="139" height="57" alt="image" src="https://github.com/user-attachments/assets/80468f78-10f7-49a0-964f-995ea2dc7d89" />| **Удалить** | Удалить выбранный элемент (блок / строку / слово) |
 
 **Меню «Очистить»:**
 
