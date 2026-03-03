@@ -440,20 +440,13 @@ Anno OCR использует следующие открытые библиот
 | Библиотека | Версия | Лицензия | Описание |
 |------------|--------|----------|----------|
 | [PySide6](https://doc.qt.io/qtforpython-6/) | 6.10 | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
-| [ONNX Runtime](https://onnxruntime.ai/) | 1.24 | [MIT](https://github.com/microsoft/onnxruntime/blob/main/LICENSE) | Движок инференса нейросетей |
 | [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | 0.1.10 | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
 | [Pillow](https://python-pillow.github.io/) | 12.1 | [HPND](https://github.com/python-pillow/Pillow/blob/main/LICENSE) | Обработка изображений |
 | [requests](https://docs.python-requests.org/) | 2.32 | [Apache-2.0](https://github.com/psf/requests/blob/main/LICENSE) | HTTP-клиент для API-запросов |
 | [ReportLab](https://www.reportlab.com/) | 4.4 | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
-| [OpenCV](https://opencv.org/) | — | [Apache-2.0](https://github.com/opencv/opencv/blob/4.x/LICENSE) | Компьютерное зрение (зависимость manuscript-ocr) |
 | [NumPy](https://numpy.org/) | — | [BSD-3-Clause](https://github.com/numpy/numpy/blob/main/LICENSE.txt) | Научные вычисления |
-| [scikit-image](https://scikit-image.org/) | — | [BSD-3-Clause](https://github.com/scikit-image/scikit-image/blob/main/LICENSE.txt) | Обработка изображений (зависимость manuscript-ocr) |
 | [Shapely](https://shapely.readthedocs.io/) | — | [BSD-3-Clause](https://github.com/shapely/shapely/blob/main/LICENSE.txt) | Геометрические операции |
-| [Numba](https://numba.pydata.org/) | — | [BSD-2-Clause](https://github.com/numba/numba/blob/main/LICENSE) | JIT-компиляция (ускорение вычислений) |
-| [Pydantic](https://docs.pydantic.dev/) | — | [MIT](https://github.com/pydantic/pydantic/blob/main/LICENSE) | Валидация данных |
-| [tqdm](https://tqdm.github.io/) | — | [MIT / MPL-2.0](https://github.com/tqdm/tqdm/blob/master/LICENCE) | Прогресс-бары |
 | [SQLite](https://www.sqlite.org/) | — | [Public Domain](https://www.sqlite.org/copyright.html) | Встроенная база данных |
-| [Python](https://www.python.org/) | 3.11 | [PSF License](https://docs.python.org/3/license.html) | Среда исполнения |
 
 Иконки: [Google Material Symbols](https://fonts.google.com/icons) — [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
