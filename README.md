@@ -73,7 +73,7 @@
 
 ### Общий вид окна
 
-<img width="1737" height="1096" alt="image" src="https://github.com/user-attachments/assets/0df6f7cf-fc4c-4006-8437-1a7b1b2257ec" />
+<img width="1738" height="1096" alt="image" src="https://github.com/user-attachments/assets/e3a69113-d54f-4ec6-a0a4-e4793b7718de" />
 
 Окно разделено на три зоны:
 
