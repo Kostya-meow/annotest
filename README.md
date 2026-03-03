@@ -320,7 +320,6 @@
 | `←` / `→` | Предыдущее / следующее изображение |
 | `Ctrl+O` | Открыть папку |
 | `Ctrl+Q` | Выход |
-| Клик по `[N/M]` | Переход на конкретную страницу |
 
 ### OCR-операции
 
@@ -332,7 +331,7 @@
 | `4` | Сортировка |
 | `5` | Полный пайплайн |
 
-> Работают только когда фокус на холсте (не в поле ввода текста).
+> Работают только когда фокус на холсте.
 
 ### Редактирование
 
@@ -350,8 +349,8 @@
 
 | Клавиша | Действие |
 |---------|----------|
-| `Ctrl+Plus` / `Ctrl+=` | Увеличить |
-| `Ctrl+Minus` | Уменьшить |
+| `Ctrl +` | Увеличить |
+| `Ctrl -` | Уменьшить |
 | `Ctrl+0` | Сбросить до 100% |
 | Колесо мыши | Плавное масштабирование |
 
@@ -395,7 +394,7 @@
 | Пункт | Описание |
 |-------|----------|
 | **API** | Настройки подключения к API-серверу (URL и ключ) |
-| **Предпросмотр** | Окно с полным текстом страницы, кнопка «Копировать всё» |
+| **Предпросмотр** | Окно с полным текстом страницы |
 | **Тема** | Переключение между тёмной и светлой темой |
 
 ---
@@ -430,10 +429,7 @@ Anno OCR использует следующие открытые библиот
 |------------|--------|----------|----------|
 | [PySide6](https://doc.qt.io/qtforpython-6/) | 6.10 | [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html) | Фреймворк пользовательского интерфейса (Qt для Python) |
 | [manuscript-ocr](https://pypi.org/project/manuscript-ocr/) | 0.1.10 | [MIT](https://github.com/konstantinkozhin/manuscript-ocr?tab=MIT-1-ov-file) | Модели OCR для рукописных и архивных документов |
-| [Pillow](https://python-pillow.github.io/) | 12.1 | [HPND](https://github.com/python-pillow/Pillow/blob/main/LICENSE) | Обработка изображений |
-| [requests](https://docs.python-requests.org/) | 2.32 | [Apache-2.0](https://github.com/psf/requests/blob/main/LICENSE) | HTTP-клиент для API-запросов |
 | [ReportLab](https://www.reportlab.com/) | 4.4 | [BSD](https://docs.reportlab.com/rl_addons/preppy/license/) | Генерация PDF-документов |
-| [NumPy](https://numpy.org/) | — | [BSD-3-Clause](https://github.com/numpy/numpy/blob/main/LICENSE.txt) | Научные вычисления |
 | [Shapely](https://shapely.readthedocs.io/) | — | [BSD-3-Clause](https://github.com/shapely/shapely/blob/main/LICENSE.txt) | Геометрические операции |
 | [SQLite](https://www.sqlite.org/) | — | [Public Domain](https://www.sqlite.org/copyright.html) | Встроенная база данных |
 
